@@ -1,3 +1,3 @@
 # git_test
 İlk github repom
-Selam Odin!!
+Selam Odin!!Yada Enki or ...
