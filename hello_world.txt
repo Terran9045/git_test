@@ -1,2 +1,2 @@
-Bismillah
-Hayırlısıyla!
+Hello World!
+Hello Friends!
